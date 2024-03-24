@@ -3,7 +3,8 @@
 ### Tools Used In This Template :
 ##### 1- HTML5
 ##### 2- CSS3
-##### 3- JS
+##### 3- Responsive Design
+##### 4- JS
 ###### An image of this template
 ![Lhou](https://github.com/ZaHoussam/Template_Three_HTML_and_CSS/assets/89077423/651335b0-cd32-49fd-a060-246a99b51d2a)
 
