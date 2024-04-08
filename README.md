@@ -12,4 +12,4 @@
 ![Lhou](https://github.com/ZaHoussam/Template_Three_HTML_and_CSS/assets/89077423/367166b4-40bc-41af-a18d-af2a0f3b43bf)
 
 ###### Link to this Template:
-https://zahoussam.github.io/Template_Three_HTML_and_CSS
+https://zahoussam.github.io/Introductory-Site/
